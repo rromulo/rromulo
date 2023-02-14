@@ -18,7 +18,6 @@ align="center"
 </h1>
 
 <div display="inline_block" align="center">
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 width="40"
