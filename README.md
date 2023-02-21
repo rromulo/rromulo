@@ -10,11 +10,11 @@ Apaixonado por tecnologia e Jiu-jitsu. Desenvolvedor Front-end e estudante full-
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<h1 text-decoration-style="none" align="center">🔥 Skills 🔥</h1>
+<h1 align="center">🔥 Skills 🔥</h1>
 
 <div align="center">
   <div>
-    <p size="4" front-size="40"> Frontend </p>
+    <p size="4"> Frontend </p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
