@@ -10,11 +10,13 @@ Apaixonado por tecnologia e Jiu-jitsu. Desenvolvedor Front-end e estudante full-
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+---
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rromulo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+
 <div align=center>
   <h1><b>🔥 Skills 🔥</b></h1>
 </div>
