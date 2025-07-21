@@ -1,6 +1,6 @@
 ### Olá, eu sou Rômulo Silva!
 
-Apaixonado por tecnologia e Jiu-jitsu. Desenvolvedor Front-end e estudante full-stack na Trybe
+Apaixonado por tecnologia e Desenvolvedor
 
 ## Social
 <a href="https://www.linkedin.com/in/romulo-silva-4164301a7/" target="_blank">
